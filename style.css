@@ -1,0 +1,25 @@
+/* everything in here is CSS */
+
+/* element selector */
+h1 {
+color:darkslategray;font-size: 60px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {color: darkslategray;font-size: 40px;
+}
+
+h3 {color: darkslategray; font: caption; font-size: 20px;
+}
+
+/* this is a class selector for selecting multiple specific items. */
+.Tom {
+border: solid;
+border-width: 5px;
+border-color:darkslategray;
+}
+
+/* this is an id selector for selecting one specific item. In this project, I did not use this  */
